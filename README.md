@@ -1,0 +1,2 @@
+# TheCashier
+membuat kasir sederhana
